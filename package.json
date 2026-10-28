@@ -1,6 +1,6 @@
 {
   "name": "waktu-solat-tizen",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Malaysia prayer times (waktu solat) API client for Samsung Tizen TV web apps, browsers and Node.js. Works with any framework.",
   "keywords": [
     "waktu-solat",

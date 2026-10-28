@@ -1,3 +1,9 @@
+## 1.0.1
+
+* Docs: add "Using with frameworks" examples for vanilla JavaScript, React, Next.js, Vue, Nuxt, Angular, Svelte, SolidJS, Lightning and Node.js.
+* Widen the npm description and keywords: the library works in any browser and in Node.js, not only on Tizen TVs.
+* No code changes.
+
 ## 1.0.0
 
 * First release of the Samsung Tizen TV / JavaScript port of `waktu_solat_lib`.
