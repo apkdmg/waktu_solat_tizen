@@ -1,3 +1,8 @@
+## 1.0.2
+
+* Docs: credit the Waktu Solat API, its author and the e-solat JAKIM data source.
+* No code changes.
+
 ## 1.0.1
 
 * Docs: add "Using with frameworks" examples for vanilla JavaScript, React, Next.js, Vue, Nuxt, Angular, Svelte, SolidJS, Lightning and Node.js.
