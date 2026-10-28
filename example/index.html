@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="ms">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=1920, user-scalable=no">
+    <title>Waktu Solat</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <main class="screen">
+        <section class="zones">
+            <h1>Zon</h1>
+            <ul id="zone-list" class="zone-list"></ul>
+            <p class="hint">▲ ▼ pilih zon · OK papar · ↩ keluar</p>
+        </section>
+        <section class="today">
+            <div class="clock" id="clock">--:--</div>
+            <div class="meta" id="meta">Memuatkan…</div>
+            <ul class="times" id="times"></ul>
+            <p class="error" id="error" hidden></p>
+        </section>
+    </main>
+    <script src="lib/waktu-solat.min.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>
